@@ -1,0 +1,14 @@
+body { 
+    background: #eee;
+    width: 100vw;
+    height: 100vh;
+}
+
+.logo { 
+    align-self: center;
+    justify-self: center;
+}
+
+.logo img {
+    width: 250px;
+}
